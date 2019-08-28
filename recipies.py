@@ -1,1 +1,2 @@
 print('said')
+print('thanku')
